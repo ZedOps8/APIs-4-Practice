@@ -18,7 +18,8 @@ This repository contains a simple Node.js RESTful API that I am actively working
    git clone https://github.com/ZedOps8/APIs-4-Practice.git
 
 ## Install dependencies
-npm install
+npm init
+npm install express
 
 ## Server
 node app.js
